@@ -1,0 +1,34 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin : 50px;
+    gap: 20px;
+}
+
+.address{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+section.products{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 95vw;
+    gap: 20px;
+    padding: 20px;
+
+}
+.product{
+    flex-grow: 1;
+}
+.home{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 150px;
+}
