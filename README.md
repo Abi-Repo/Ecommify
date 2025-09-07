@@ -1,32 +1,12 @@
-📦 Ecommify
+# React + Vite
 
-Ecommify is a simple e-commerce web application built with React, React Router, and Bootstrap. It allows users to browse products, view details, and explore company information through a clean and structured UI.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-🚀 Features
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-🏠 Home Page – A welcoming landing page for visitors.
-ℹ️ About Page – Information about the company and offerings.
-📦 Products Page – Displays a list of products fetched from a backend API.
-🔍 Product Details – Placeholder for detailed product information.
-📞 Contact Page – Displays contact address and info.
-🚫 404 Page – User-friendly Not Found page for invalid routes.
-🎨 Responsive UI – Styled with Bootstrap and custom CSS.
+## Expanding the ESLint configuration
 
-
-🛠️ Tech Stack
-
-Frontend: React, React Router, Bootstrap
-Styling: CSS (custom + Bootstrap)
-Backend (API): Fetching products from http://localhost:4000/products
-Package Manager: npm
-
-
-
-🛒 Future Enhancements
-
-1.🔐 User Authentication (Login/Signup)
-2.🛍️ Shopping Cart & Checkout
-3.💳 Payment Integration
-4.📱 Fully Responsive Mobile UI
-5.📊 Admin Panel for managing products
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
