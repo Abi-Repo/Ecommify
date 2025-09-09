@@ -6,17 +6,15 @@ Ecommify is a simple e-commerce web application built with React, React Router, 
 🚀 Features
 
 🏠 Home Page – A welcoming landing page for visitors.
-<<<<<<< HEAD
-ℹ About Page – Information about the company and offerings.
+    About Page – Information about the company and offerings.
 📦 Products Page – Displays a list of products fetched from a backend API.
 🔍 Product Details – Placeholder for detailed product information.
 📞 Contact Page – Displays contact address and info.
 🚫 404 Page – User-friendly Not Found page for invalid routes.
 🎨 Responsive UI – Styled with Bootstrap and custom CSS.
 
-=======
 
-ℹ About Page – Information about the company and offerings.
+   About Page – Information about the company and offerings.
 
 📦 Products Page – Displays a list of products fetched from a backend API.
 
@@ -28,7 +26,6 @@ Ecommify is a simple e-commerce web application built with React, React Router, 
 
 🎨 Responsive UI – Styled with Bootstrap and custom CSS.
 
->>>>>>> be7e76b (changes in the readme file)
 
 🛠 Tech Stack
 
@@ -45,8 +42,5 @@ Package Manager: npm
 2.🛍 Shopping Cart & Checkout
 3.💳 Payment Integration
 4.📱 Fully Responsive Mobile UI
-<<<<<<< HEAD
 5.📊 Admin Panel for managing products
-=======
 5.📊 Admin Panel for managing products
->>>>>>> be7e76b (changes in the readme file)
